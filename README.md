@@ -36,5 +36,7 @@ This will open the iPython Notebook software and project file in your browser.
 
 ## Data
 
-The dataset used in this project is downloaded into the project directory when the notebook is ran.
+The dataset used in this project is downloaded into the project directory when the notebook is ran. If that fails, it can downloaded from the following [link](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Apps_for_Android_5.json.gz)
+
+
 
