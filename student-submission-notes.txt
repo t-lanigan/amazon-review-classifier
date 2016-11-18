@@ -1,3 +1,3 @@
-Please find the 'proposal.pdf' document in the reports directory for the capstone project proposal. The review links for this proposal is: https://review.udacity.com/#!/reviews/270123 
+Please find the 'proposal.pdf' document. The review links for this proposal is: https://review.udacity.com/#!/reviews/270123 
 
 
