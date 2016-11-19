@@ -1,3 +1,5 @@
 Please find the 'proposal.pdf' document. The review links for this proposal is: https://review.udacity.com/#!/reviews/270123 
 
+1. I have changed terminology for 'helpful_numerator' and 'helpful_denominator to 'helpful_ratings' and 'total_ratings' respectively. This doesn't change anything numerically, but helps to clarify meanings.
 
+2.
